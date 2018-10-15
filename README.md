@@ -7,7 +7,7 @@ Use a single negative (eg "bad" in place of "not good") instead of negating.
 Clone the Repository and set the twitter authentication then run the app in R Studio.
 
 ## Prerequisites
-1. You have Developer Account of Twitter.
+1. You should have Developer Account of Twitter.
 2. R studio
 
 ## Authors
