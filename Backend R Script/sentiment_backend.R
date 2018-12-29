@@ -1,14 +1,14 @@
 library(ROAuth)
 library(twitteR)
 
-consumer_key <-"lqmB2YTEgYUecPmboxhNbSfaj"
-consumer_secret <- "Lb15UOk6ugMbh4VReJH6EfwRQ2ibJkfQN9hsnwfJwQ32Ei7lmv"
-access_token<-"1359034926-Tf5DV5RFTpCGY21LMM1pM0ZpoAQJuBtM3U4YZC1"
-access_secret <- "LzaicjUJE4139MS0KxUKV71StOfPgp9je4kwr13CpCv7N"
+consumer_key <-"xxx"
+consumer_secret <- "xxx"
+access_token<-"xxx"
+access_secret <- "xxx"
 
 setup_twitter_oauth(consumer_key ,consumer_secret, access_token,  access_secret )
  
-cred <- OAuthFactory$new(consumerKey="lqmB2YTEgYUecPmboxhNbSfaj", consumerSecret="Lb15UOk6ugMbh4VReJH6EfwRQ2ibJkfQN9hsnwfJwQ32Ei7lmv",requestURL="https://api.twitter.com/oauth/request_token",accessURL="https://api.twitter.com/oauth/access_token",authURL="https://api.twitter.com/oauth/authorize")
+cred <- OAuthFactory$new(consumerKey="xxx", consumerSecret="xxx",requestURL="https://api.twitter.com/oauth/request_token",accessURL="https://api.twitter.com/oauth/access_token",authURL="https://api.twitter.com/oauth/authorize")
 
 cred$handshake(cainfo="cacert.pem")
 searchString<-readline(prompt="Enter tweet search String : ")
