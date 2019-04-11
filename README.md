@@ -4,7 +4,7 @@ It's my 3rd sem project on sentiment analysis of twitter which is in R language 
 ## Getting Started
 Takes feeds from Twitter into R and the sentiment of the tweets is analysed and classified into positive, negative and neutral tweets.
 Use a single negative (eg "bad" in place of "not good") instead of negating.
-Clone the Repository and set the twitter authentication then run the app in R Studio.
+Clone the Repository and set the twitter authentication then replace xxx as your developer secret.Now run the app in R Studio.
 
 ## Prerequisites
 1. You should have Developer Account of Twitter.
