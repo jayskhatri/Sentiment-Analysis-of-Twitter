@@ -26,7 +26,11 @@
 
 * Twitter: [@jayskhatri](https://twitter.com/jayskhatri)
 * GitHub: [@jayskhatri](https://github.com/jayskhatri)
+
+👤 **Isha Khimsurya**
 * GitHub: [@ishakhimsurya](https://github.com/ishakhimsurya)
+
+👤 **Priyank Shah**
 * GitHub: [@priyank04](https://github.com/priyank04)
 
 ## 🤝 Contributing
