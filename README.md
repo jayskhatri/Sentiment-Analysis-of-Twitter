@@ -20,19 +20,6 @@
 1. You should have Developer Account of Twitter.
 2. R studio
 
-## Author
-
-👤 **Jay Khatri**
-
-* Twitter: [@jayskhatri](https://twitter.com/jayskhatri)
-* GitHub: [@jayskhatri](https://github.com/jayskhatri)
-
-👤 **Isha Khimsurya**
-* GitHub: [@ishakhimsurya](https://github.com/ishakhimsurya)
-
-👤 **Priyank Shah**
-* GitHub: [@priyank04](https://github.com/priyank04)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome !<br />Feel free to check [issues page](https://github.com/jayskhatri/Sentiment-Analysis-of-Twitter/issues).
